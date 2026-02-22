@@ -18,5 +18,5 @@ A multi-threaded TCP port scanner built with Python using socket programming.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/python-port-scanner.git
+git clone https://github.com/Muhammad-hash/python-port-scanner.git
 cd python-port-scanner
